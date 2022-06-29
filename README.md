@@ -32,7 +32,7 @@ obs: npm install deve ser executado apenas no inicio.
 Esta Api retorna os dados em Json pela rota http://localhost:8080/api/tasks
 
 exemplo de retorno:
-
+```
 [
     {
         "_id": 15,
@@ -55,7 +55,7 @@ exemplo de retorno:
         "completed": false
     }
 ]
-
+```
 ## Desenvolvimento, dependências usadas
 
 ### Client
