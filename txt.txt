@@ -1,0 +1,8 @@
+npm init
+npm install express mongoose cors
+
+pasta todo-app
+create-react-app client
+
+pasta client
+npm install axios @material-ui/core
