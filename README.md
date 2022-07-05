@@ -1,8 +1,8 @@
 # To-do-list
 Desenvolvido uma API com Node.js para salvar dados no MongoDB e retornar os dados em json, através de uma requisição. 
-Para o front-end o React.js faz a requisão ao banco e redenriza uma aplicação.
+Para o front-end o React.js faz a requisão ao banco e rendenriza uma aplicação.
 
-## Pasta Client
+## Client
 
 ### Projeto inicializado com o Create-React-App
 Para rodar o projeto localmente será necessário a instalação do node modules.
@@ -17,7 +17,7 @@ obs: npm install deve ser executado apenas no inicio.
  
 ![image](https://user-images.githubusercontent.com/93170497/176515901-07d5e4be-a062-4e01-abc3-da08137def4a.png)
 
- ## Pasta Server
+ ## Server
  
 Server desenvolvido com Node.js, criação de Api, rotas CRUD, com cominicação com banco de dados MongoDB, para salvar as tarefas adicionadas.
 na raiz da pasta server execute no teminal:
